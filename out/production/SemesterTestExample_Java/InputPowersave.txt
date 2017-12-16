@@ -1,0 +1,8 @@
+A a 10 q a
+B b 15 w b
+C c 20 e c
+D d 25 r d
+E e 30 t e
+F a 35 y f
+A b 15 q a
+A a 15 q a
